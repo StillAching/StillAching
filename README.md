@@ -10,7 +10,7 @@
 
 ### 🌐 Languages
 
-![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=StillAching&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&count_private=true&hide_border=true&theme=dark)
+![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=StillAching&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&count_private=true&hide_border=false&theme=dark)
 
 <!--
 **StillAching/StillAching** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
